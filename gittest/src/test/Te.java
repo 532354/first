@@ -6,4 +6,7 @@ public class Te {
 	public void a(){
 		
 	}
+	public void b(){
+		
+	}
 }
